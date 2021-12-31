@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <div align="center">
   <a href="https://github.com/Vattghern203">
