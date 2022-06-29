@@ -13,7 +13,7 @@
   <img align="center" alt="Vatt-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vatt-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vatt-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="right" alt="Vatt-Pic" height="150px" src="https://i.pinimg.com/originals/2e/9e/2c/2e9e2c806d61dfab2cbf0c008334362c.png">
+  <img align="right" alt="Vatt-Pic" height="150px" style="border-radius: 5px" src="https://i.pinimg.com/originals/2e/9e/2c/2e9e2c806d61dfab2cbf0c008334362c.png">
 </div>
   
 ##
