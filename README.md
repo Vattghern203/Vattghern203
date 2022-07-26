@@ -2,7 +2,7 @@
 
 - I'm working hard to be a Full Stack Developer 📚
 
-- At the moment, I'm better doing the FrontEnd. Not using a framework BTW 🙃
+- I'm better doing the FrontEnd. Not using a framework BTW (Maybe React.js in the future) 🙃
 
 - I currently using Flask as my main framework. I love the freedom it gives me 🌶
 
