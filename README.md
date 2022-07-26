@@ -2,7 +2,7 @@
 
 - I'm working hard to be a Full Stack Developer 📚
 
--- Studying JavaScript, Python, HTML and CSS ☕
+- Studying JavaScript, Python, HTML and CSS ☕
 
 - I'm better doing the FrontEnd. Not using a framework BTW (Maybe React.js in the future) 🙃
 
