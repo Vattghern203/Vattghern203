@@ -2,9 +2,11 @@
 
 - I'm working hard to be a Full Stack Developer 📚
 
+- At the moment, I'm better doing the FrontEnd. Not using a framework BTW 🙃
+
 - I currently using Flask as my main framework. I love the freedom it gives me 🌶
 
-- At the moment I'm reading [Flask Web Development](https://www.amazon.com.br/Flask-Web-Development-Developing-Applications-ebook/dp/B07B8DCCN7/ref=sr_1_4?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=P5SNDQ6NYK00&keywords=flask&qid=1658857722&sprefix=fla%2Caps%2C224&sr=8-4&ufe=app_do%3Aamzn1.fos.4bb5663b-6f7d-4772-84fa-7c7f565ec65b) by [Miguel Grinberg](https://www.amazon.com.br/Miguel-Grinberg/e/B00J23SQ34/ref=dp_byline_cont_ebooks_1)
+- At the moment I'm reading [Flask Web Development](https://www.amazon.com.br/Flask-Web-Development-Developing-Applications-ebook/dp/B07B8DCCN7/ref=sr_1_4?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=P5SNDQ6NYK00&keywords=flask&qid=1658857722&sprefix=fla%2Caps%2C224&sr=8-4&ufe=app_do%3Aamzn1.fos.4bb5663b-6f7d-4772-84fa-7c7f565ec65b) by [Miguel Grinberg](https://www.amazon.com.br/Miguel-Grinberg/e/B00J23SQ34/ref=dp_byline_cont_ebooks_1) 📖
 
 - As you can see, English it's not my mother tongue... but I'm trying to improve ASAP 🗽
 
