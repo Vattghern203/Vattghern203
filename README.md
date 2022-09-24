@@ -15,7 +15,7 @@
 ##
 
 <style>
-  main-div {
+  .main-div {
     background-color: white;
   }
 </style> 
