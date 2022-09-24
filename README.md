@@ -14,15 +14,13 @@
 
 ##
 
-<style>
-</style>
 <div align="center">
   <a href="https://github.com/Vattghern203">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vattghern203&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vattghern203&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
   
-<div style="display: flex"><br>
+<div style="display: flex;justify-content:space-between"><br>
   <img align="center" alt="Vatt-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vatt-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Vatt-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
