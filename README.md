@@ -2,15 +2,13 @@
 
 - I'm working hard to be a Full Stack Developer 📚
 
-- Studying JavaScript/TypeScript, Python, HTML and CSS ☕
+- Studying JavaScript/TypeScript ☕
 
-- I'm better doing the FrontEnd. 🎨
+- My strongest skills are CSS, SASS, HTML and React 💪
 
-- I'm currently learning React and SASS. They save my time a lot ⚛
+- I'm currently developing a Tailwind alike framework ⚛
 
-- At the moment I'm reading [Flask Web Development](https://www.amazon.com.br/Flask-Web-Development-Developing-Applications-ebook/dp/B07B8DCCN7/ref=sr_1_4?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=P5SNDQ6NYK00&keywords=flask&qid=1658857722&sprefix=fla%2Caps%2C224&sr=8-4&ufe=app_do%3Aamzn1.fos.4bb5663b-6f7d-4772-84fa-7c7f565ec65b) by [Miguel Grinberg](https://www.amazon.com.br/Miguel-Grinberg/e/B00J23SQ34/ref=dp_byline_cont_ebooks_1) and [Clean Code](https://www.amazon.com.br/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM/ref=sr_1_1?keywords=clean+code&qid=1659638692&sprefix=clea%2Caps%2C265&sr=8-1&ufe=app_do%3Aamzn1.fos.25548f35-0de7-44b3-b28e-0f56f3f96147) by [Robert C. Martin](https://www.amazon.com.br/Robert-C-Martin/e/B000APG87E/ref=aufs_dp_fta_dsk) 📖
-
-- As you can see, English it's not my mother tongue... but I'm trying to improve ASAP 🗽
+- At the moment I'm reading [Algoritmos e Estrutura de Dados](https://www.amazon.com.br/Entendendo-Algoritmos-Ilustrado-Programadores-Curiosos/dp/8575225634/ref=asc_df_8575225634/?tag=googleshopp00-20&linkCode=df0&hvadid=379765802639&hvpos=&hvnetw=g&hvrand=5770710119135770211&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9047774&hvtargid=pla-811121403561&psc=1) by Aditya Y. Bhargava 📖
 
 ##
 
