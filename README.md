@@ -6,7 +6,7 @@
 
 - My strongest skills are CSS, SASS, HTML and React 💪
 
-- I'm currently developing a Tailwind alike framework ⚛
+- I'm currently developing a Tailwind alike framework 🍃
 
 - At the moment I'm reading [Algoritmos e Estrutura de Dados](https://www.amazon.com.br/Entendendo-Algoritmos-Ilustrado-Programadores-Curiosos/dp/8575225634/ref=asc_df_8575225634/?tag=googleshopp00-20&linkCode=df0&hvadid=379765802639&hvpos=&hvnetw=g&hvrand=5770710119135770211&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9047774&hvtargid=pla-811121403561&psc=1) by Aditya Y. Bhargava 📖
 
