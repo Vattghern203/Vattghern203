@@ -2,7 +2,7 @@
 
 - I'm working hard to be a Full Stack Developer 📚
 
-- Studying JavaScript/TypeScript ☕
+- Studying JavaScript/TypeScript, UX and UI ☕
 
 - My strongest skills are CSS, SASS, HTML and React 💪
 
