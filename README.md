@@ -31,7 +31,6 @@
   <img align="center" alt="Vatt-Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
   <img align="center" alt="Vatt-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Vatt-SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
-  <img align="right" alt="Vatt-Pic" height="150px" style="border-radius: 5px" src="https://i.pinimg.com/originals/d0/9e/61/d09e61b84129cee7b956098bbe8f9b94.jpg">
 </div>
   
 ##
